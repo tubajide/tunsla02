@@ -16,3 +16,62 @@
 #footer1-4 P {
   text-align: center;
 }
+#menu-5 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-5.mbr-navbar--stuck .mbr-navbar__section {
+  background: #553982;
+}
+#menu-5 .mbr-navbar__hamburger {
+  color: #1abc9c;
+}
+#header3-a H3 {
+  text-align: center;
+}
+#footer1-7 P {
+  text-align: center;
+}
+#menu-b .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #553982;
+}
+#menu-b .mbr-navbar__hamburger {
+  color: #1abc9c;
+}
+#header3-c H3 {
+  text-align: center;
+}
+#header3-c P {
+  text-align: center;
+  color: #e25041;
+}
+#features1-d P {
+  color: #000000;
+}
+#footer1-g P {
+  text-align: center;
+}
+#menu-n .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #553982;
+}
+#menu-n .mbr-navbar__hamburger {
+  color: #1abc9c;
+}
+#header3-o H3 {
+  text-align: center;
+}
+#header3-o P {
+  text-align: center;
+  color: #e25041;
+}
+#features1-p P {
+  color: #000000;
+}
+#footer1-s P {
+  text-align: center;
+}
